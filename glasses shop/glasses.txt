@@ -1,0 +1,3 @@
+RX100,Sunglasses,RayBan,150.00,10
+VZ200,Prescription,Vogue,120.50,5
+ST300,Reading,Oakley,99.99,8
